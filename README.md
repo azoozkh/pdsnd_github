@@ -11,8 +11,13 @@ Start Station (e.g., Broadway & Barry Ave)
 End Station (e.g., Sedgwick St & North Ave)
 User Type (Subscriber or Customer)
 
+
+
+
+
 ### Description
 In this project, I used Python to explore data related to the bike share systems of three major cities — Chicago, New York City, and Washington, DC. I wrote code to import the data and compute descriptive statistics. I also wrote a script that takes in raw input to create an interactive experience in the terminal.
+
 
 ### Files
 I used data provided by Motivate, a national bike share system provider. In order to run the program, the following files are needed.
